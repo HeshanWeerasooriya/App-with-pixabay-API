@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pixabay API</string>
+    <string name="likes">Likes:</string>
+</resources>

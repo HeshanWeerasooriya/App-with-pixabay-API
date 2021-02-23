@@ -1,0 +1,9 @@
+1) Add Dependencies
+2) Add RecyclerView To main.xml
+3) Create example_item Resource file
+4) Create ExampleItem java Class
+5) Create Adapter
+6) Dev Main.java
+7) Create DetailActivity
+8) Set up Detailxml
+9) Set up OnItemClickListener on Adapter
